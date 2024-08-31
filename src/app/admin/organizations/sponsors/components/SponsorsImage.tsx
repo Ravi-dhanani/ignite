@@ -87,7 +87,7 @@ export default function SponsorsImage(props: ISponsorsImageProps) {
             <div className="tw-grid tw-grid-cols-2 md:tw-grid-cols-3 tw-gap-3">
               {files &&
                 files.map((item: any, index: number) => (
-                  <div className="tw-relative tw-h-24 tw-w-auto">
+                  <div className="tw-relative tw-h-24 tw-w-auto" key={index}>
                     <img
                       className=" tw-h-full tw-w-full tw-object-fill tw-rounded-md"
                       src={item.preview}
