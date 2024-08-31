@@ -1,0 +1,111 @@
+export const appUserDate = [
+  {
+    name: "Alfredo Aminoff",
+    Role: "Challenger",
+    Onboardedon: "24 Jan 2024",
+    Events: "12",
+    Gender: "Male",
+    Age: 22,
+    Lastactivity: "24 Jan 2024 19:30 pm",
+    Status: "Active",
+  },
+  {
+    name: "Alfredo Aminoff",
+    Role: "Challenger",
+    Onboardedon: "24 Jan 2024",
+    Events: "12",
+    Gender: "Male",
+    Age: 22,
+    Lastactivity: "24 Jan 2024 19:30 pm",
+
+    Status: "Active",
+  },
+  {
+    name: "Alfredo Aminoff",
+    Role: "Challenger",
+    Onboardedon: "24 Jan 2024",
+    Events: "12",
+    Gender: "Male",
+    Age: 22,
+    Lastactivity: "24 Jan 2024 19:30 pm",
+
+    Status: "Active",
+  },
+  {
+    name: "Alfredo Aminoff",
+    Role: "Challenger",
+    Onboardedon: "24 Jan 2024",
+    Events: "12",
+    Gender: "Male",
+    Age: 22,
+    Lastactivity: "24 Jan 2024 19:30 pm",
+
+    Status: "Active",
+  },
+  {
+    name: "Alfredo Aminoff",
+    Role: "Challenger",
+    Onboardedon: "24 Jan 2024",
+    Events: "12",
+    Gender: "Male",
+    Age: 22,
+    Lastactivity: "24 Jan 2024 19:30 pm",
+
+    Status: "Active",
+  },
+  {
+    name: "Alfredo Aminoff",
+    Role: "Challenger",
+    Onboardedon: "24 Jan 2024",
+    Events: "12",
+    Gender: "Male",
+    Age: 22,
+    Lastactivity: "24 Jan 2024 19:30 pm",
+
+    Status: "Active",
+  },
+  {
+    name: "Alfredo Aminoff",
+    Role: "Challenger",
+    Onboardedon: "24 Jan 2024",
+    Events: "12",
+    Gender: "Male",
+    Age: 22,
+    Lastactivity: "24 Jan 2024 19:30 pm",
+
+    Status: "Active",
+  },
+  {
+    name: "Alfredo Aminoff",
+    Role: "Challenger",
+    Onboardedon: "24 Jan 2024",
+    Events: "12",
+    Gender: "Male",
+    Age: 22,
+    Lastactivity: "24 Jan 2024 19:30 pm",
+
+    Status: "Active",
+  },
+  {
+    name: "Alfredo Aminoff",
+    Role: "Challenger",
+    Onboardedon: "24 Jan 2024",
+    Events: "12",
+    Gender: "Male",
+    Age: 22,
+    Lastactivity: "24 Jan 2024 19:30 pm",
+
+    Status: "Active",
+  },
+  {
+    name: "Alfredo Aminoff",
+    Role: "Challenger",
+    Onboardedon: "24 Jan 2024",
+    Events: "12",
+    Gender: "Male",
+    Age: 22,
+    Lastactivity: "24 Jan 2024 19:30 pm",
+
+    Status: "Active",
+  },
+];

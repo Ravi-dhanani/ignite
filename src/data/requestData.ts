@@ -1,0 +1,73 @@
+export const requestData = [
+  {
+    name: "Sumit Vohra",
+    Type: "Yoga Trainer",
+    Speciality: "Youga Mens",
+    Email: "Rohan@gmail.com",
+    RequestedOn: "24 Jan 2024 13:30",
+    },
+    {
+    name: "Sumit Vohra",
+    Type: "Yoga Trainer",
+    Speciality: "Youga Mens",
+    Email: "Rohan@gmail.com",
+    RequestedOn: "24 Jan 2024 13:30",
+    },
+    {
+    name: "Sumit Vohra",
+    Type: "Yoga Trainer",
+    Speciality: "Youga Mens",
+    Email: "Rohan@gmail.com",
+    RequestedOn: "24 Jan 2024 13:30",
+    },
+    {
+    name: "Sumit Vohra",
+    Type: "Yoga Trainer",
+    Speciality: "Youga Mens",
+    Email: "Rohan@gmail.com",
+    RequestedOn: "24 Jan 2024 13:30",
+    },
+    {
+    name: "Sumit Vohra",
+    Type: "Yoga Trainer",
+    Speciality: "Youga Mens",
+    Email: "Rohan@gmail.com",
+    RequestedOn: "24 Jan 2024 13:30",
+    },
+    {
+    name: "Sumit Vohra",
+    Type: "Yoga Trainer",
+    Speciality: "Youga Mens",
+    Email: "Rohan@gmail.com",
+    RequestedOn: "24 Jan 2024 13:30",
+    },
+    {
+    name: "Sumit Vohra",
+    Type: "Yoga Trainer",
+    Speciality: "Youga Mens",
+    Email: "Rohan@gmail.com",
+    RequestedOn: "24 Jan 2024 13:30",
+    },
+    {
+    name: "Sumit Vohra",
+    Type: "Yoga Trainer",
+    Speciality: "Youga Mens",
+    Email: "Rohan@gmail.com",
+    RequestedOn: "24 Jan 2024 13:30",
+    },
+    {
+    name: "Sumit Vohra",
+    Type: "Yoga Trainer",
+    Speciality: "Youga Mens",
+    Email: "Rohan@gmail.com",
+    RequestedOn: "24 Jan 2024 13:30",
+    },
+    {
+    name: "Sumit Vohra",
+    Type: "Yoga Trainer",
+    Speciality: "Youga Mens",
+    Email: "Rohan@gmail.com",
+    RequestedOn: "24 Jan 2024 13:30",
+  },
+  
+];

@@ -1,0 +1,73 @@
+export const pollsData = [
+  {
+    PollsName: "Which quest should we take?",
+    TotalVotes: "12333",
+    StartDate: "24 Jan 2024 ",
+    EndDate: "24 Jan 2024 ",
+    Status: "Active",
+    },
+    {
+    PollsName: "Which quest should we take?",
+    TotalVotes: "12333",
+    StartDate: "24 Jan 2024 ",
+    EndDate: "24 Jan 2024 ",
+    Status: "Active",
+    },
+    {
+    PollsName: "Which quest should we take?",
+    TotalVotes: "12333",
+    StartDate: "24 Jan 2024 ",
+    EndDate: "24 Jan 2024 ",
+    Status: "Active",
+    },
+    {
+    PollsName: "Which quest should we take?",
+    TotalVotes: "12333",
+    StartDate: "24 Jan 2024 ",
+    EndDate: "24 Jan 2024 ",
+    Status: "Active",
+    },
+    {
+    PollsName: "Which quest should we take?",
+    TotalVotes: "12333",
+    StartDate: "24 Jan 2024 ",
+    EndDate: "24 Jan 2024 ",
+    Status: "Active",
+    },
+    {
+    PollsName: "Which quest should we take?",
+    TotalVotes: "12333",
+    StartDate: "24 Jan 2024 ",
+    EndDate: "24 Jan 2024 ",
+    Status: "Active",
+    },
+    {
+    PollsName: "Which quest should we take?",
+    TotalVotes: "12333",
+    StartDate: "24 Jan 2024 ",
+    EndDate: "24 Jan 2024 ",
+    Status: "Active",
+    },
+    {
+    PollsName: "Which quest should we take?",
+    TotalVotes: "12333",
+    StartDate: "24 Jan 2024 ",
+    EndDate: "24 Jan 2024 ",
+    Status: "Active",
+    },
+    {
+    PollsName: "Which quest should we take?",
+    TotalVotes: "12333",
+    StartDate: "24 Jan 2024 ",
+    EndDate: "24 Jan 2024 ",
+    Status: "Active",
+    },
+    {
+    PollsName: "Which quest should we take?",
+    TotalVotes: "12333",
+    StartDate: "24 Jan 2024 ",
+    EndDate: "24 Jan 2024 ",
+    Status: "Active",
+  },
+
+];
